@@ -7,7 +7,7 @@ Uipath & .NET Developer
 I've been developing automation solutions for 5 years, mainly using Uipath, .NET and Blue Prism.
 
 * 🌍  I'm based in Switzerland
-* 🖥️  See my portfolio at [MyPortfolio](http://ztm.com)
+* 🖥️  See my portfolio at [MyPortfolio](http://www.lprfernandes.com)
 * ✉️  You can contact me at [lprfernandes@gmail.com](mailto:lprfernandes@gmail.com)
 * 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating on projects
